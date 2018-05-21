@@ -2,30 +2,31 @@
 "Obtener": [
    {
    "prioridad": "1",
+   "linea": "20/05/2018",
    "link": "https://www.dropbox.com/s/pi9axy67hh8nd7u/Cine.Movil.BETA.1.1.4.apk?dl=1",
    "nombre": "Cine.Movil.BETA.",
    "version": "1.1.4",
 	 "cambios": [ 
-	    "NOTA:",
-	   "Posiblemente tengas error con la actualización",
-	   "debido a un error en la version 1.1.3",
-	   "debes de ir a administrador de app y borrar los datos de Cine Movil",
-	   "_______",
+	   "",
 	   "Correcciones de errores: 1.1.4",
 	   "Error con las descargas",
 	   "Error al abrir archivo al descargar",
 	   "Error al intentar unirse al grupo WhatsApp",
-	   "_______",
+	   "",
 	   "Boton Donar/Compartir Habilitados",
-	   "_______",
-	   "P: Películas | S: Series | N: Netflix",
-	   "_______",
+	   "",
 	   "Se han agregado mas de 20 películas en Comedia",
 	   "Se han agregado mas de 20 películas en Acción",
-	   "_______",
+	   "",
 	   "COMPARTE LA APP! Ahora con el boton COMPARTIR! :D",
 	   "Ayudanos a crecer y compartir del contenido gratuito.",
-	   "_______"
+	   ""
+	   ],
+	   "añadir": [ 
+	   "P: Películas | S: Series | N: Netflix",
+	   "",
+	   "P: Deadpool 2 2018 Calidad: CAM (Aceptable).",
+	   "S: The Flash - Temp 4: Actualizada."
 	   ]
      }
 	]	
