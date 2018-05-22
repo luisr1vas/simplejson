@@ -1,33 +1,36 @@
 {
-"Obtener": [
-   {
-   "prioridad": "1",
-   "linea": "20/05/2018",
-   "link": "https://www.dropbox.com/s/pi9axy67hh8nd7u/Cine.Movil.BETA.1.1.4.apk?dl=1",
-   "nombre": "Cine.Movil.BETA.",
-   "version": "1.1.4",
-	 "cambios": [ 
-	   "",
-	   "Correcciones de errores: 1.1.4",
-	   "Error con las descargas",
-	   "Error al abrir archivo al descargar",
-	   "Error al intentar unirse al grupo WhatsApp",
-	   "",
-	   "Boton Donar/Compartir Habilitados",
-	   "",
-	   "Se han agregado mas de 20 películas en Comedia",
-	   "Se han agregado mas de 20 películas en Acción",
-	   "",
-	   "COMPARTE LA APP! Ahora con el boton COMPARTIR! :D",
-	   "Ayudanos a crecer y compartir del contenido gratuito.",
-	   ""
-	   ],
-	   "añadir": [ 
-	   "P: Películas | S: Series | N: Netflix",
-	   "",
-	   "P: Deadpool 2 2018 Calidad: CAM (Aceptable).",
-	   "S: The Flash - Temp 4: Actualizada."
-	   ]
-     }
-	]	
+  "Obtener": [
+    {
+      "prioridad": "1",
+      "linea": "22/05/2018",
+      "link": "https://www.dropbox.com/s/pi9axy67hh8nd7u/Cine.Movil.BETA.1.1.4.apk?dl=1",
+      "nombre": "Cine.Movil.BETA.",
+      "version": "1.1.5",
+      "cambios": [
+        "",
+        "Correcciones de errores: 1.1.5",
+        ""
+      ],
+      "añadir": [
+        "P: Películas | S: Series | N: Netflix",
+        "",
+        "P: 50 Sombras liberadas 2018",
+        "P: Deadpool 2 CAM 2018",
+        "P: Llevame a casa esta noche 2011",
+        "P: District 9 2009",
+        "P: Feliz dia de tu muerte 2017",
+        "P: Huye! 2017",
+        "P: Jigsaw 2017",
+        "P: Madre! 2017",
+        "P: Nunca te vayas Berlin Syndrome 2017",
+        "P: Tres anuncios por un crimen 2017",
+		"P/N: Cargo Netflix 2017",
+        "P/N: War Machine 2017",
+        "",
+		"S: Mr. Robot",
+        "S/N: 13 Reasons Why Temp 2.",
+        "S: The Flash Temp 4. Actualizada"
+      ]
+    }
+  ]
 }
