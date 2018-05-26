@@ -2,7 +2,9 @@
   "Obtener": [
     {
       "prioridad": "1",
-      "linea": "25/05/2018",
+      "linea": "26/05/2018",
+	  "encuesta": "1",
+	  "compartir": "1",
       "link": "https://www.dropbox.com/s/ztib2fr6ozzhiqp/Cine.Movil.BETA.1.1.5.apk?dl=1",
       "nombre": "Cine.Movil.BETA.",
       "version": "1.1.5",
@@ -17,6 +19,9 @@
 		"S/N: The Gifted",
 		"S/N: The Vampire Diaries",
 		"S: Capitulo 14, El Señor De Los Cielos 6",
+		"",
+		"25/05/2018",
+		"",
 		"S/N: Lost in Space",
 		"S: Krypton",
         "P/N: Corresponsales especiales 2016",
