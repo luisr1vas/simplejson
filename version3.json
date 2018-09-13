@@ -1,6 +1,6 @@
 {
-  "promo": true,
-  "mensV": true,
+  "promo": false,
+  "mensV": false,
   "prioridad": false,
   "encuesta": false,
   "publicacion": "https://www.facebook.com/app.cinemovil/videos/299790300611414/",
