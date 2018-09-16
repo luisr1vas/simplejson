@@ -1,6 +1,7 @@
 
 {
-  "cache": "false",
+  "cache": false,
+  "downloadapk": false,
   "serv1A": "AanojjFfrtA_bEHdC-AdltIgtnaH8Nx1OejaITQTObzTUHBTaU5Vdm1MZzTdRYH_f12S88wKYKum4UYo",
   "serv2A": "AanojjFfrtA_bEHdC-AdltIgtnaH8Nx1OejaITQTObzTUHBTaU5Vdm1MZzTdRYH_f12S88wKYKum4UYo",
   "serv3A": "AanojjFfrtA_bEHdC-AdltIgtnaH8Nx1OejaITQTObzTUHBTaU5Vdm1MZzTdRYH_f12S88wKYKum4UYo",
