@@ -1,8 +1,8 @@
 {
-  "update": false,
+  "update": true,
   "promo": false,
   "mensV": false,
-  "prioridad": false,
+  "prioridad": true,
   "encuesta": false,
   "ads": 2,
   "failedA": false,
