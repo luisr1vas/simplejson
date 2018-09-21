@@ -1,8 +1,8 @@
 {
-  "update": true,
+  "update": false,
   "promo": false,
   "mensV": false,
-  "prioridad": true,
+  "prioridad": false,
   "encuesta": false,
   "ads": 2,
   "failedA": false,
@@ -17,10 +17,10 @@
   "urlCD": "http://appcinemovil.blogspot.com/2018/08/instalacion-manual.html",
   "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.3.apk?dl=1",
   "nombre": "Cine.Movil.",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "cambios": [
     "",
-    "2.1.3",
+    "2.1.4",
     "",
     "Mejoras de optimización.",
     "Menos desliegue de anuncios.",
