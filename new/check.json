@@ -1,6 +1,6 @@
 {
   "downloadapk": false,
-  "update": false,
+  "update": true,
   "promo": false,
   "mensV": false,
   "prioridad": false,
@@ -16,10 +16,21 @@
   "mens": "¡Códigos GRATIS!\n\n¿No tienes un código Premium?\n\nEstá disponible para activar el código de forma gratuita, rapida. Abre la barra lateral y úbicate en 'Quitar Anuncios' debajo saldra 'Activar Código'. Aprovecha, es por tiempo ilimitado.\n\nSi no te aparece la opción, cierra la aplicación y abrela nuevamente.",
   "urlC": "https://youtu.be/6gsI3ob4m0s",
   "urlCD": "http://appcinemovil.blogspot.com/2018/08/instalacion-manual.html",
-  "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.7.apk?dl=1",
+  "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.8.apk?dl=1",
   "nombre": "Cine.Movil.",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "cambios": [
+    "",
+    "2.1.8",
+    "",
+    "· Mejoras de optimización.",
+    "· Anuncios excesivos eliminados.",
+    "· Poder Pausar/Reanudar descargas",
+    "· Vista de portadas de películas en el buscador.",
+    "· Descargas ilimitadas (para todos los usuarios)",
+    "· Velocidad de descargas/reproducción en la barra.",
+    "· Nueva página de Facebook (la anterior la eliminaron)",
+    "· Posibilidad de actualizar la aplicación sin necesidad de Google Play (perfecto para quienes tienen la aplicación en Tv Box, entre otros...)",
     "",
     ""
   ],
@@ -35,7 +46,7 @@
 	"N/S: El Ilusionista (2018)",
 	"N/S: Scream (2015)",
 	"N/S: The Gifted (2017)",
-    "ssss",
+    "",
     ""
   ]
 }
