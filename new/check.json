@@ -1,6 +1,6 @@
 {
   "downloadapk": false,
-  "update": true,
+  "update": false,
   "promo": false,
   "mensV": false,
   "prioridad": false,
@@ -16,9 +16,9 @@
   "mens": "¡Códigos GRATIS!\n\n¿No tienes un código Premium?\n\nEstá disponible para activar el código de forma gratuita, rapida. Abre la barra lateral y úbicate en 'Quitar Anuncios' debajo saldra 'Activar Código'. Aprovecha, es por tiempo ilimitado.\n\nSi no te aparece la opción, cierra la aplicación y abrela nuevamente.",
   "urlC": "https://youtu.be/6gsI3ob4m0s",
   "urlCD": "http://appcinemovil.blogspot.com/2018/08/instalacion-manual.html",
-  "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.3.apk?dl=1",
+  "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.7.apk?dl=1",
   "nombre": "Cine.Movil.",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "cambios": [
     "",
     ""
