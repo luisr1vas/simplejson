@@ -20,12 +20,14 @@
   "urlCD": "http://appcinemovil.blogspot.com/2018/08/instalacion-manual.html",
   "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.18.apk?dl=1",
   "nombre": "Cine.Movil.",
-  "version": "2.1.18",
+  "version": "2.1.20",
   "cambios": [
     "",
-    "2.1.18",
+    "2.1.20",
     "",
-    "• Correción de varios errores y servidor de Películas arreglado.",
+    "• Corrigiendo detalles.",
+    "• Categoría de romance agregada.",
+    "• Gestión de cuenta (cambiar contraseña, nombre).",
     "",
     ""
   ],
