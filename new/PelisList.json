@@ -1,6 +1,104 @@
 {
 	"peliculasLink": [
 		{
+			"0": "1293",
+			"id_tvpeliculas": "1293",
+			"1": "Speed Kills",
+			"nombre_tvpeliculas": "Speed Kills",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BMmY0ZDhmOWItMDM4MS00NTkzLWE2MDItYjFhNzhlZmViOTAyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMmY0ZDhmOWItMDM4MS00NTkzLWE2MDItYjFhNzhlZmViOTAyXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SY1000_SX675_AL_.jpg"
+		},
+		{
+			"0": "1292",
+			"id_tvpeliculas": "1292",
+			"1": "El Manicomio",
+			"nombre_tvpeliculas": "El Manicomio",
+			"2": "Terror",
+			"nombre_genero": "Terror",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjgxMWFlMjItNzAwMy00YWMyLTk2MDAtNDNhMDE1ZTEyMTA0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_CR0,0,706,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjgxMWFlMjItNzAwMy00YWMyLTk2MDAtNDNhMDE1ZTEyMTA0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SY1000_CR0,0,706,1000_AL_.jpg"
+		},
+		{
+			"0": "1291",
+			"id_tvpeliculas": "1291",
+			"1": "Budapest",
+			"nombre_tvpeliculas": "Budapest",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BNjJkMzNjOTUtZjc3NC00ZjU1LWE0OTEtMGMxZTY5NzcxZjk3XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_SX750_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNjJkMzNjOTUtZjc3NC00ZjU1LWE0OTEtMGMxZTY5NzcxZjk3XkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SY1000_SX750_AL_.jpg"
+		},
+		{
+			"0": "1290",
+			"id_tvpeliculas": "1290",
+			"1": "Exterminadores Del MÃ¡s AllÃ¡",
+			"nombre_tvpeliculas": "Exterminadores Del MÃ¡s AllÃ¡",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BYTczZDExMGYtOTM0Mi00YjllLWJhODUtNzgwZTQzMDkyMmJmXkEyXkFqcGdeQXVyMTc0MTEzMzM@._V1_SY1000_CR0,0,687,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BYTczZDExMGYtOTM0Mi00YjllLWJhODUtNzgwZTQzMDkyMmJmXkEyXkFqcGdeQXVyMTc0MTEzMzM@._V1_SY1000_CR0,0,687,1000_AL_.jpg"
+		},
+		{
+			"0": "1289",
+			"id_tvpeliculas": "1289",
+			"1": "Malicious",
+			"nombre_tvpeliculas": "Malicious",
+			"2": "Terror",
+			"nombre_genero": "Terror",
+			"3": "https://m.media-amazon.com/images/M/MV5BNzYzMjU1MDUzN15BMl5BanBnXkFtZTgwMDI0NjY1NjM@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNzYzMjU1MDUzN15BMl5BanBnXkFtZTgwMDI0NjY1NjM@._V1_.jpg"
+		},
+		{
+			"ID_TMD": "525213",
+			"NAME_TMD": "Ya veremos (2018)",
+			"nombre_genero": "comedia",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0OWTW6CPV"
+		},
+		{
+			"ID_TMD": "537996",
+			"NAME_TMD": "La balada de Buster Scruggs (2018)",
+			"nombre_genero": "comedia drama",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0ORGTKCIY"
+		},
+		{
+			"ID_TMD": "299536",
+			"NAME_TMD": "Los Vengadores | Avengers Infinity War (2018)",
+			"nombre_genero": "ciencia ficcion aventura accion",
+			"URL_VIDEO": "HD_:_https://drive.google.com/uc?id=1Z2PRJgidfPKWPdiPyKPPXcqHObWkDV80&export=download,Calidades_:_https://www.rapidvideo.com/v/G0ORONT2EM"
+		},
+		{
+			"ID_TMD": "557",
+			"NAME_TMD": "Spider-Man 1 2002",
+			"nombre_genero": "ciencia ficcion aventura accion",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0OLQFWBL1"
+		},
+		{
+			"ID_TMD": "558",
+			"NAME_TMD": "Spider-Man 2 2004",
+			"nombre_genero": "ciencia ficcion aventura accion",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0OMCRUT32"
+		},
+		{
+			"ID_TMD": "559",
+			"NAME_TMD": "Spider-Man 3 2007",
+			"nombre_genero": "ciencia ficcion aventura accion",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0OLTP8ZGD"
+		},
+		{
+			"ID_TMD": "1930",
+			"NAME_TMD": "The amazing Spider-Man 1 2012",
+			"nombre_genero": "ciencia ficcion aventura accion",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0OLUAXNBR"
+		},
+		{
+			"ID_TMD": "1724",
+			"NAME_TMD": "El Increible Hulk (2008)",
+			"nombre_genero": "ciencia ficcion aventura accion",
+			"URL_VIDEO": "https://www.rapidvideo.com/v/G0OJREZGZO"
+		},
+		{
 			"0": "1288",
 			"id_tvpeliculas": "1288",
 			"1": "Nacion Salvaje",
@@ -7839,16 +7937,6 @@
 			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BM2NkODhiYjktYjdkZi00MGQ2LTljMDAtZTA1ZGYwMWMzZDc3XkEyXkFqcGdeQXVyMDQ0MDI4OA@@._V1_SY1000_SX674_AL_.jpg"
 		},
 		{
-			"0": "945",
-			"1": "Ya veremos 2018",
-			"2": "Drama",
-			"3": "https://m.media-amazon.com/images/M/MV5BM2E2NThjYmItMzljOC00YWNkLWI3M2QtZWQ3NDA1NWUzYWEwXkEyXkFqcGdeQXVyMjMyNTMwODc@._V1_SY1000_SX700_AL_.jpg",
-			"id_tvpeliculas": "945",
-			"nombre_tvpeliculas": "Ya veremos 2018",
-			"nombre_genero": "Drama",
-			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BM2E2NThjYmItMzljOC00YWNkLWI3M2QtZWQ3NDA1NWUzYWEwXkEyXkFqcGdeQXVyMjMyNTMwODc@._V1_SY1000_SX700_AL_.jpg"
-		},
-		{
 			"0": "944",
 			"1": "Un Lugar En El Caribe 2017",
 			"2": "Romance",
@@ -12210,7 +12298,7 @@
 		},
 		{
 			"0": "481",
-			"1": "Los vengadores 2012 | The Avengers",
+			"1": "Los vengadores 2012 | The Avengers 1",
 			"2": "Accion",
 			"3": "https://m.media-amazon.com/images/M/MV5BNzBmYWVhOGQtYjFjOC00NDdkLWE5NjQtNDkxYWFjYjEwNmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
 			"id_tvpeliculas": "481",
@@ -12220,7 +12308,7 @@
 		},
 		{
 			"0": "480",
-			"1": "Los Vengadores 2015 | The Avengers",
+			"1": "Los Vengadores 2015 | The Avengers 2",
 			"2": "Accion",
 			"3": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_SY1000_SX675_AL_.jpg",
 			"id_tvpeliculas": "480",
@@ -14959,16 +15047,6 @@
 			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNzZhZjJlNzMtZmVlNi00MTIxLTg3OTMtMTI2NTVkYWQ4NDQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
 		},
 		{
-			"0": "174",
-			"1": "Los Vengadores 2018 | The Avengers",
-			"2": "Accion",
-			"3": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-			"id_tvpeliculas": "174",
-			"nombre_tvpeliculas": "Vengadores: Infinity War",
-			"nombre_genero": "Accion Ciencia Ficcion",
-			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
-		},
-		{
 			"0": "172",
 			"1": "The Bleeding Edge",
 			"2": "Ciencia ficcion cultura biografia",
@@ -16160,7 +16238,7 @@
 		},
 		{
 			"0": "19",
-			"1": "Black Panther",
+			"1": "Black Panther | Pantera Negra",
 			"2": "Comedia",
 			"3": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
 			"id_tvpeliculas": "19",

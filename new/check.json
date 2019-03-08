@@ -1,14 +1,14 @@
 
 {
   "downloadapk": false,
-  "update": true,
+  "update": false,
   "promo": false,
   "mensV": false,
   "prioridad": true,
   "ads": 3,
   "adsF": 150,
   "failedA": true,
-  "fisableA": false,
+  "fisableA": true,
   "down": true,
   "p": "50,00$",
   "pL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTJFQUYM6Q8LU",
