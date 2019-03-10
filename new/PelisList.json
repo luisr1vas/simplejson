@@ -1,5 +1,485 @@
 {
 	"peliculasLink": [
+	{
+			"0": "1341",
+			"id_tvpeliculas": "1341",
+			"1": "Mandy",
+			"nombre_tvpeliculas": "Mandy",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+		},
+		{
+			"0": "1340",
+			"id_tvpeliculas": "1340",
+			"1": "Sicario",
+			"nombre_tvpeliculas": "Sicario",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1339",
+			"id_tvpeliculas": "1339",
+			"1": "Traffik",
+			"nombre_tvpeliculas": "Traffik",
+			"2": "Suspenso",
+			"nombre_genero": "Suspenso",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjIzMzc4MDAzM15BMl5BanBnXkFtZTgwMDA3NjUyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjIzMzc4MDAzM15BMl5BanBnXkFtZTgwMDA3NjUyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
+		{
+			"0": "1338",
+			"id_tvpeliculas": "1338",
+			"1": "Extraordinario 2017",
+			"nombre_tvpeliculas": "Extraordinario 2017",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BYjc0ZDcxNDAtZWIzOS00MjgxLThiNjEtMWNhM2MwYzMzYTg0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,687,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BYjc0ZDcxNDAtZWIzOS00MjgxLThiNjEtMWNhM2MwYzMzYTg0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,687,1000_AL_.jpg"
+		},
+		{
+			"0": "1337",
+			"id_tvpeliculas": "1337",
+			"1": "Battleship: Batalla naval 2012",
+			"nombre_tvpeliculas": "Battleship: Batalla naval 2012",
+			"2": "Ciencia Ficcion",
+			"nombre_genero": "Ciencia Ficcion",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjI5NTM5MDA2N15BMl5BanBnXkFtZTcwNjkwMzQxNw@@._V1_SY1000_CR0,0,631,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjI5NTM5MDA2N15BMl5BanBnXkFtZTcwNjkwMzQxNw@@._V1_SY1000_CR0,0,631,1000_AL_.jpg"
+		},
+		{
+			"0": "1336",
+			"id_tvpeliculas": "1336",
+			"1": "The Warriors /Los guerreros (1979)",
+			"nombre_tvpeliculas": "The Warriors /Los guerreros (1979)",
+			"2": "Misterio",
+			"nombre_genero": "Misterio",
+			"3": "https://m.media-amazon.com/images/M/MV5BZTBmNTQ5OGYtNmJjYi00NTVjLTg2YzgtMTAxM2NiZDdhZTQyXkEyXkFqcGdeQXVyNTc4Njg5MjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZTBmNTQ5OGYtNmJjYi00NTVjLTg2YzgtMTAxM2NiZDdhZTQyXkEyXkFqcGdeQXVyNTc4Njg5MjA@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1335",
+			"id_tvpeliculas": "1335",
+			"1": "MAftershock 2012",
+			"nombre_tvpeliculas": "MAftershock 2012",
+			"2": "Suspenso",
+			"nombre_genero": "Suspenso",
+			"3": "https://m.media-amazon.com/images/M/MV5BMTQyOTA3MjQzNF5BMl5BanBnXkFtZTcwMzc3NzY0OQ@@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMTQyOTA3MjQzNF5BMl5BanBnXkFtZTcwMzc3NzY0OQ@@._V1_.jpg"
+		},
+		{
+			"0": "1334",
+			"id_tvpeliculas": "1334",
+			"1": "Mas sabe el diablo por viejo 2018",
+			"nombre_tvpeliculas": "Mas sabe el diablo por viejo 2018",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BODMwYTAzMGYtZWQyOS00NmE4LWI5ODktMGI3YjU2NTYyNGFkXkEyXkFqcGdeQXVyNzU2MDA1MA@@._V1_SY1000_CR0,0,702,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BODMwYTAzMGYtZWQyOS00NmE4LWI5ODktMGI3YjU2NTYyNGFkXkEyXkFqcGdeQXVyNzU2MDA1MA@@._V1_SY1000_CR0,0,702,1000_AL_.jpg"
+		},
+		{
+			"0": "1333",
+			"id_tvpeliculas": "1333",
+			"1": "El dia de la union 2017",
+			"nombre_tvpeliculas": "El dia de la union 2017",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BMTc2N2E3MzUtZGEwMy00ZTFlLThiYzQtN2RhZmY4Zjg1NTVlXkEyXkFqcGdeQXVyNzY4Njg1NjE@._V1_SY1000_SX700_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMTc2N2E3MzUtZGEwMy00ZTFlLThiYzQtN2RhZmY4Zjg1NTVlXkEyXkFqcGdeQXVyNzY4Njg1NjE@._V1_SY1000_SX700_AL_.jpg"
+		},
+		{
+			"0": "1332",
+			"id_tvpeliculas": "1332",
+			"1": "El niño que domo el viento 2019",
+			"nombre_tvpeliculas": "El niño que domo el viento 2019",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BOGEyOTc0MGUtMTNmMy00NDdkLTgxYTYtNjdlYjZmY2FmMjk5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,675,1000_AL_.jpgrn",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BOGEyOTc0MGUtMTNmMy00NDdkLTgxYTYtNjdlYjZmY2FmMjk5XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY1000_CR0,0,675,1000_AL_.jpgrn"
+		},
+		{
+			"0": "1331",
+			"id_tvpeliculas": "1331",
+			"1": "Asu Mare! 3 2018",
+			"nombre_tvpeliculas": "Asu Mare! 3 2018",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BMDMyNjJjMGItNTNhYi00MzFiLTgxMWMtZGE3NjBlMTJmMDNlXkEyXkFqcGdeQXVyODY1MDg2OTE@._V1_SY1000_CR0,0,699,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMDMyNjJjMGItNTNhYi00MzFiLTgxMWMtZGE3NjBlMTJmMDNlXkEyXkFqcGdeQXVyODY1MDg2OTE@._V1_SY1000_CR0,0,699,1000_AL_.jpg"
+		},
+		{
+			"0": "1330",
+			"id_tvpeliculas": "1330",
+			"1": "Asu Mare! 2 2015",
+			"nombre_tvpeliculas": "Asu Mare! 2 2015",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BYTg1ZWY2NTItOTNjOC00MGYwLWEwNzktZTAyMjczZTJhMDRiXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BYTg1ZWY2NTItOTNjOC00MGYwLWEwNzktZTAyMjczZTJhMDRiXkEyXkFqcGdeQXVyMjQ4NDAyMDI@._V1_.jpg"
+		},
+		{
+			"0": "1329",
+			"id_tvpeliculas": "1329",
+			"1": "Dogman 2018",
+			"nombre_tvpeliculas": "Dogman 2018",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BYTAyZDY1YzUtMWVhYi00MWJlLWIyMzUtNWI3YTdlNzViYjgyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,700,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BYTAyZDY1YzUtMWVhYi00MWJlLWIyMzUtNWI3YTdlNzViYjgyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_CR0,0,700,1000_AL_.jpg"
+		},
+		{
+			"0": "1328",
+			"id_tvpeliculas": "1328",
+			"1": "Gran terremoto 9 grados (Skjelvet) 2018",
+			"nombre_tvpeliculas": "Gran terremoto 9 grados (Skjelvet) 2018",
+			"2": "Suspenso",
+			"nombre_genero": "Suspenso",
+			"3": "https://m.media-amazon.com/images/M/MV5BNGZjNTgwYjItNzk4OS00ZmMyLTg0MjQtMWE5ZDMzMDYzZjdkXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNGZjNTgwYjItNzk4OS00ZmMyLTg0MjQtMWE5ZDMzMDYzZjdkXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_.jpg"
+		},
+		{
+			"0": "1327",
+			"id_tvpeliculas": "1327",
+			"1": "Capitan Fantastico 2016",
+			"nombre_tvpeliculas": "Capitan Fantastico 2016",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjE5OTM0OTY5NF5BMl5BanBnXkFtZTgwMDcxOTQ3ODE@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
+		{
+			"0": "1326",
+			"id_tvpeliculas": "1326",
+			"1": "Quien te cantara 2018",
+			"nombre_tvpeliculas": "Quien te cantara 2018",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BZTE1MjU5MzYtNmYyZi00ODI2LTljYjAtNDJkODBjNzY2NDg5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_SX750_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZTE1MjU5MzYtNmYyZi00ODI2LTljYjAtNDJkODBjNzY2NDg5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_SX750_AL_.jpg"
+		},
+		{
+			"0": "1325",
+			"id_tvpeliculas": "1325",
+			"1": "Somos calentura 2018",
+			"nombre_tvpeliculas": "Somos calentura 2018",
+			"2": "Musical",
+			"nombre_genero": "Musical",
+			"3": "https://m.media-amazon.com/images/M/MV5BZjQ2ZmRmMTYtODhkOC00MjZhLWIxMGMtZjkzNzcxYjE0YWI2XkEyXkFqcGdeQXVyOTIxMzcxNzY@._V1_SY1000_CR0,0,702,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZjQ2ZmRmMTYtODhkOC00MjZhLWIxMGMtZjkzNzcxYjE0YWI2XkEyXkFqcGdeQXVyOTIxMzcxNzY@._V1_SY1000_CR0,0,702,1000_AL_.jpg"
+		},
+		{
+			"0": "1324",
+			"id_tvpeliculas": "1324",
+			"1": "Leal, solo hay una forma de vivir (2018)",
+			"nombre_tvpeliculas": "Leal, solo hay una forma de vivir (2018)",
+			"2": "Crimen",
+			"nombre_genero": "Crimen",
+			"3": "https://m.media-amazon.com/images/M/MV5BZGE1NTM3MjUtOWZkNi00ZWUxLTgwZTctYTc4ZTIyNzY0OWM1XkEyXkFqcGdeQXVyNDE4NjMxMjY@._V1_SY1000_CR0,0,700,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZGE1NTM3MjUtOWZkNi00ZWUxLTgwZTctYTc4ZTIyNzY0OWM1XkEyXkFqcGdeQXVyNDE4NjMxMjY@._V1_SY1000_CR0,0,700,1000_AL_.jpg"
+		},
+		{
+			"0": "1323",
+			"id_tvpeliculas": "1323",
+			"1": "Tu hijo 2018",
+			"nombre_tvpeliculas": "Tu hijo 2018",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BMGZjZjVkODItOWU5OC00M2E2LWE2MWYtOGM3M2Y1ZGEzOGE0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,707,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMGZjZjVkODItOWU5OC00M2E2LWE2MWYtOGM3M2Y1ZGEzOGE0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY1000_CR0,0,707,1000_AL_.jpg"
+		},
+		{
+			"0": "1322",
+			"id_tvpeliculas": "1322",
+			"1": "Elvis: The Rebirth of the King 2017",
+			"nombre_tvpeliculas": "Elvis: The Rebirth of the King 2017",
+			"2": "Cien/cult&Biograf",
+			"nombre_genero": "Cien/cult&Biograf",
+			"3": "https://m.media-amazon.com/images/M/MV5BN2FlZjlmZTctNTJjYS00YzcxLWFkMjUtMDVhZjQ1NTdhMjUxXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY1000_CR0,0,677,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BN2FlZjlmZTctNTJjYS00YzcxLWFkMjUtMDVhZjQ1NTdhMjUxXkEyXkFqcGdeQXVyMjQ0NzcxNjM@._V1_SY1000_CR0,0,677,1000_AL_.jpg"
+		},
+		{
+			"0": "1321",
+			"id_tvpeliculas": "1321",
+			"1": "La Gaviota 2018",
+			"nombre_tvpeliculas": "La Gaviota 2018",
+			"2": "Romance",
+			"nombre_genero": "Romance",
+			"3": "https://m.media-amazon.com/images/M/MV5BMTc5OTk3NDQ5MV5BMl5BanBnXkFtZTgwMDYxNDIyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMTc5OTk3NDQ5MV5BMl5BanBnXkFtZTgwMDYxNDIyNTM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
+		{
+			"0": "1320",
+			"id_tvpeliculas": "1320",
+			"1": "Como la vida misma 2018",
+			"nombre_tvpeliculas": "Como la vida misma 2018",
+			"2": "Romance",
+			"nombre_genero": "Romance",
+			"3": "https://m.media-amazon.com/images/M/MV5BNmM0OTVjZTktOTBlNi00NDIwLTgwZGQtOTJiMThjOGE5NjI4XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_SX700_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNmM0OTVjZTktOTBlNi00NDIwLTgwZGQtOTJiMThjOGE5NjI4XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SY1000_SX700_AL_.jpg"
+		},
+		{
+			"0": "1319",
+			"id_tvpeliculas": "1319",
+			"1": "Enterrando a la ex 2014",
+			"nombre_tvpeliculas": "Enterrando a la ex 2014",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BNTM3ODI4NjA2OF5BMl5BanBnXkFtZTgwOTMzOTAwNjE@._V1_SY1000_CR0,0,677,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNTM3ODI4NjA2OF5BMl5BanBnXkFtZTgwOTMzOTAwNjE@._V1_SY1000_CR0,0,677,1000_AL_.jpg"
+		},
+		{
+			"0": "1318",
+			"id_tvpeliculas": "1318",
+			"1": "Batalla por Terra 2007",
+			"nombre_tvpeliculas": "Batalla por Terra 2007",
+			"2": "Animacion",
+			"nombre_genero": "Animacion",
+			"3": "https://m.media-amazon.com/images/M/MV5BOGU4MzcyZGEtYzY2OS00NDUxLWFiMGEtYjc2NGI0MWI1ZDVkXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SY1000_CR0,0,679,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BOGU4MzcyZGEtYzY2OS00NDUxLWFiMGEtYjc2NGI0MWI1ZDVkXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SY1000_CR0,0,679,1000_AL_.jpg"
+		},
+		{
+			"0": "1317",
+			"id_tvpeliculas": "1317",
+			"1": "Cazadores de dragones 2008",
+			"nombre_tvpeliculas": "Cazadores de dragones 2008",
+			"2": "Animacion",
+			"nombre_genero": "Animacion",
+			"3": "https://m.media-amazon.com/images/M/MV5BMzYyMjM0NjU4M15BMl5BanBnXkFtZTgwNjk2NTcwMzE@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMzYyMjM0NjU4M15BMl5BanBnXkFtZTgwNjk2NTcwMzE@._V1_.jpg"
+		},
+		{
+			"0": "1316",
+			"id_tvpeliculas": "1316",
+			"1": "Sola en la oscuridad 1967",
+			"nombre_tvpeliculas": "Sola en la oscuridad 1967",
+			"2": "Terror",
+			"nombre_genero": "Terror",
+			"3": "https://m.media-amazon.com/images/M/MV5BMGQwOWNlMTktMzc5NC00OWVkLTg5MzEtMWUxNzEyYjlkNzE3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMGQwOWNlMTktMzc5NC00OWVkLTg5MzEtMWUxNzEyYjlkNzE3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg"
+		},
+		{
+			"0": "1315",
+			"id_tvpeliculas": "1315",
+			"1": "10×10 2018",
+			"nombre_tvpeliculas": "10×10 2018",
+			"2": "Suspenso",
+			"nombre_genero": "Suspenso",
+			"3": "https://m.media-amazon.com/images/M/MV5BMDc4ZmUxNjctMTg1Yy00MzMwLTkzNWEtNTU0YjQzNzNmMTJiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SY1000_SX750_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMDc4ZmUxNjctMTg1Yy00MzMwLTkzNWEtNTU0YjQzNzNmMTJiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SY1000_SX750_AL_.jpg"
+		},
+		{
+			"0": "1314",
+			"id_tvpeliculas": "1314",
+			"1": "El angel 2018",
+			"nombre_tvpeliculas": "El angel 2018",
+			"2": "Misterio",
+			"nombre_genero": "Misterio",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjYzYWI1MTctN2E1Mi00OTUwLThjYTgtY2JhMjRiNDc3YWZjXkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SY1000_SX675_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjYzYWI1MTctN2E1Mi00OTUwLThjYTgtY2JhMjRiNDc3YWZjXkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SY1000_SX675_AL_.jpg"
+		},
+		{
+			"0": "1313",
+			"id_tvpeliculas": "1313",
+			"1": "Click: Perdiendo el control (2006)",
+			"nombre_tvpeliculas": "Click: Perdiendo el control (2006)",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsiJ9CsCEkUF63xwcbtaCwXuEF3.jpg",
+			"img_tvpeliculas": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hsiJ9CsCEkUF63xwcbtaCwXuEF3.jpg"
+		},
+		{
+			"0": "1312",
+			"id_tvpeliculas": "1312",
+			"1": "Duro de Matar 5: Un Buen Dia para Morir (2013)",
+			"nombre_tvpeliculas": "Duro de Matar 5: Un Buen Dia para Morir (2013)",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BNjg4MzgxMDQ4Nl5BMl5BanBnXkFtZTcwOTM1MTY4OA@@._V1_SY1000_CR0,0,673,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNjg4MzgxMDQ4Nl5BMl5BanBnXkFtZTcwOTM1MTY4OA@@._V1_SY1000_CR0,0,673,1000_AL_.jpg"
+		},
+		{
+			"0": "1311",
+			"id_tvpeliculas": "1311",
+			"1": "Muy duro de matar (End of a Gun) 2016",
+			"nombre_tvpeliculas": "Muy duro de matar (End of a Gun) 2016",
+			"2": "Crimen",
+			"nombre_genero": "Crimen",
+			"3": "https://m.media-amazon.com/images/M/MV5BMTkwNzEzODIzNF5BMl5BanBnXkFtZTgwNzk2NzU3OTE@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMTkwNzEzODIzNF5BMl5BanBnXkFtZTgwNzk2NzU3OTE@._V1_.jpg"
+		},
+		{
+			"0": "1310",
+			"id_tvpeliculas": "1310",
+			"1": "Duro de matar 3 – La venganza 1995",
+			"nombre_tvpeliculas": "Duro de matar 3 – La venganza 1995",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BZTcxNzRkNTAtNTdlMi00Mzk5LTk3OTktZWQyMWE1MDAzODY3XkEyXkFqcGdeQXVyNjY5ODM1Nzk@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZTcxNzRkNTAtNTdlMi00Mzk5LTk3OTktZWQyMWE1MDAzODY3XkEyXkFqcGdeQXVyNjY5ODM1Nzk@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1309",
+			"id_tvpeliculas": "1309",
+			"1": "Duro de matar 4.0/Live Free or Die Hard (2007)",
+			"nombre_tvpeliculas": "Duro de matar 4.0/Live Free or Die Hard (2007)",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BYjE1NTA0ZDEtZmFhNy00ZjY4LWJjMTctYWFjZmUzOWRiOTE1XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BYjE1NTA0ZDEtZmFhNy00ZjY4LWJjMTctYWFjZmUzOWRiOTE1XkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1308",
+			"id_tvpeliculas": "1308",
+			"1": "Duro de matar /Die Hard  1988",
+			"nombre_tvpeliculas": "Duro de matar /Die Hard  1988",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BODE1ZGQ5YzAtMzYzOC00M2RkLWJjY2ItNDAwZDRmZDg0YjU4XkEyXkFqcGdeQXVyNjY5ODM1Nzk@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BODE1ZGQ5YzAtMzYzOC00M2RkLWJjY2ItNDAwZDRmZDg0YjU4XkEyXkFqcGdeQXVyNjY5ODM1Nzk@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1307",
+			"id_tvpeliculas": "1307",
+			"1": "Duro de matar 2/Die Hard 2 (1990)",
+			"nombre_tvpeliculas": "Duro de matar 2/Die Hard 2 (1990)",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BNGNjNGY3NWQtOGVhYy00NzhmLWE1ZTctM2EyN2M4ZmMxZDUzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNGNjNGY3NWQtOGVhYy00NzhmLWE1ZTctM2EyN2M4ZmMxZDUzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1306",
+			"id_tvpeliculas": "1306",
+			"1": "Sin dolor/Painless 2017",
+			"nombre_tvpeliculas": "Sin dolor/Painless 2017",
+			"2": "Suspenso",
+			"nombre_genero": "Suspenso",
+			"3": "https://m.media-amazon.com/images/M/MV5BZGYwNTI0ZDktNDg2Ny00YmExLWJjYTctMmNkNDQ5NmUzYWJiXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZGYwNTI0ZDktNDg2Ny00YmExLWJjYTctMmNkNDQ5NmUzYWJiXkEyXkFqcGdeQXVyMTQ2OTU2OTQ@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
+		{
+			"0": "1305",
+			"id_tvpeliculas": "1305",
+			"1": "La maldición del Diablo (Still/Born) 2017",
+			"nombre_tvpeliculas": "La maldición del Diablo (Still/Born) 2017",
+			"2": "Terror",
+			"nombre_genero": "Terror",
+			"3": "https://m.media-amazon.com/images/M/MV5BMWYzMTFhMjYtMDBmZS00M2YwLWJjMWQtNjcxOTM0OTBmMGY3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMWYzMTFhMjYtMDBmZS00M2YwLWJjMWQtNjcxOTM0OTBmMGY3XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_.jpg"
+		},
+		{
+			"0": "1304",
+			"id_tvpeliculas": "1304",
+			"1": "Paddleton 2019",
+			"nombre_tvpeliculas": "Paddleton 2019",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjAyZDUxODQtZjBhMy00NmQ5LTg5MmMtNGUxZjhkODk1NjdiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjAyZDUxODQtZjBhMy00NmQ5LTg5MmMtNGUxZjhkODk1NjdiXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+		},
+		{
+			"0": "1303",
+			"id_tvpeliculas": "1303",
+			"1": "Noche de venganza (Sleepless) 2017",
+			"nombre_tvpeliculas": "Noche de venganza (Sleepless) 2017",
+			"2": "Crimen",
+			"nombre_genero": "Crimen",
+			"3": "https://m.media-amazon.com/images/M/MV5BNzMzNjY3MWEtMjQyMC00Mzk2LWI0NDMtMDVhYWE4NjU2NjIxXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNzMzNjY3MWEtMjQyMC00Mzk2LWI0NDMtMDVhYWE4NjU2NjIxXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1302",
+			"id_tvpeliculas": "1302",
+			"1": "Hot Dog 2018",
+			"nombre_tvpeliculas": "Hot Dog 2018",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BMmYxYmY4YzktMTY4ZC00NjUyLThhZjItMDBjMzU2Yjc1ZmEwXkEyXkFqcGdeQXVyMTQ1MTgwOA@@._V1_SY1000_CR0,0,706,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMmYxYmY4YzktMTY4ZC00NjUyLThhZjItMDBjMzU2Yjc1ZmEwXkEyXkFqcGdeQXVyMTQ1MTgwOA@@._V1_SY1000_CR0,0,706,1000_AL_.jpg"
+		},
+		{
+			"0": "1301",
+			"id_tvpeliculas": "1301",
+			"1": "Tierra de policias (Cop Land) 1995",
+			"nombre_tvpeliculas": "Tierra de policias (Cop Land) 1995",
+			"2": "Crimen",
+			"nombre_genero": "Crimen",
+			"3": "https://m.media-amazon.com/images/M/MV5BNmNhMzI0NmQtMzU1OS00NzQzLTg0NzctZDJkODZlMjU3OTc5XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNmNhMzI0NmQtMzU1OS00NzQzLTg0NzctZDJkODZlMjU3OTc5XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+		},
+		{
+			"0": "1300",
+			"id_tvpeliculas": "1300",
+			"1": "S.W.A.T. Los hombres de Harrelson 2003",
+			"nombre_tvpeliculas": "S.W.A.T. Los hombres de Harrelson 2003",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BOTA0ZGVjYWUtYzJhMy00ZTFmLTk1MTItMzQ1MDhhY2JmNTM5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY1000_SX750_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BOTA0ZGVjYWUtYzJhMy00ZTFmLTk1MTItMzQ1MDhhY2JmNTM5XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SY1000_SX750_AL_.jpg"
+		},
+		{
+			"0": "1299",
+			"id_tvpeliculas": "1299",
+			"1": "Dos Policias Rebeldes (Bad Boys) 1995",
+			"nombre_tvpeliculas": "Dos Policias Rebeldes (Bad Boys) 1995",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BNjk5MTQzNzkxMF5BMl5BanBnXkFtZTcwMjkyNTgxMQ@@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BNjk5MTQzNzkxMF5BMl5BanBnXkFtZTcwMjkyNTgxMQ@@._V1_.jpg"
+		},
+		{
+			"0": "1298",
+			"id_tvpeliculas": "1298",
+			"1": "Dos Policias Rebeldes 2 (Bad Boys II)",
+			"nombre_tvpeliculas": "Dos Policias Rebeldes 2 (Bad Boys II)",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZmU4NzVkZjEtZmQxMi00ZDY5LWI3ZDYtMWRmZjE5YmYwZjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+		},
+		{
+			"0": "1297",
+			"id_tvpeliculas": "1297",
+			"1": "¿Podras perdonarme? Can You Ever Forgive Me? 2018",
+			"nombre_tvpeliculas": "¿Podras perdonarme? Can You Ever Forgive Me? 2018",
+			"2": "Drama",
+			"nombre_genero": "Drama",
+			"3": "https://m.media-amazon.com/images/M/MV5BMjQzMzEzNDU2NV5BMl5BanBnXkFtZTgwMzQ4NTUwNTM@._V1_SY1000_CR0,0,670,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMjQzMzEzNDU2NV5BMl5BanBnXkFtZTgwMzQ4NTUwNTM@._V1_SY1000_CR0,0,670,1000_AL_.jpg"
+		},
+		{
+			"0": "1296",
+			"id_tvpeliculas": "1296",
+			"1": "50 sombras negras (Fifty Shades of Black) 2016",
+			"nombre_tvpeliculas": "50 sombras negras (Fifty Shades of Black) 2016",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://m.media-amazon.com/images/M/MV5BMTQ3MTg3MzY4OV5BMl5BanBnXkFtZTgwNTI4MzM1NzE@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMTQ3MTg3MzY4OV5BMl5BanBnXkFtZTgwNTI4MzM1NzE@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
+		},
+		{
+			"0": "1295",
+			"id_tvpeliculas": "1295",
+			"1": "Trabajo Sucio",
+			"nombre_tvpeliculas": "Trabajo Sucio",
+			"2": "Comedia",
+			"nombre_genero": "Comedia",
+			"3": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13q7OGKl7qpr4SAC4FwAe2GOQnE.jpg",
+			"img_tvpeliculas": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/13q7OGKl7qpr4SAC4FwAe2GOQnE.jpg"
+		},
+		{
+			"0": "1294",
+			"id_tvpeliculas": "1294",
+			"1": "Aquaman",
+			"nombre_tvpeliculas": "Aquaman",
+			"2": "Accion",
+			"nombre_genero": "Accion",
+			"3": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+			"img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
+		},
 		{
 			"0": "1293",
 			"id_tvpeliculas": "1293",
@@ -33,8 +513,8 @@
 		{
 			"0": "1290",
 			"id_tvpeliculas": "1290",
-			"1": "Exterminadores Del MÃ¡s AllÃ¡",
-			"nombre_tvpeliculas": "Exterminadores Del MÃ¡s AllÃ¡",
+			"1": "Exterminadores Del Más Allá",
+			"nombre_tvpeliculas": "Exterminadores Del Más Allá",
 			"2": "Comedia",
 			"nombre_genero": "Comedia",
 			"3": "https://m.media-amazon.com/images/M/MV5BYTczZDExMGYtOTM0Mi00YjllLWJhODUtNzgwZTQzMDkyMmJmXkEyXkFqcGdeQXVyMTc0MTEzMzM@._V1_SY1000_CR0,0,687,1000_AL_.jpg",

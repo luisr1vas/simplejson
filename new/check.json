@@ -1,7 +1,7 @@
 
 {
   "downloadapk": false,
-  "update": false,
+  "update": true,
   "promo": false,
   "mensV": false,
   "prioridad": true,
@@ -20,14 +20,12 @@
   "urlCD": "http://appcinemovil.blogspot.com/2018/08/instalacion-manual.html",
   "link": "https://www.dropbox.com/s/sxte4x3doeussux/Cine.Movil.2.1.18.apk?dl=1",
   "nombre": "Cine.Movil.",
-  "version": "2.1.20",
+  "version": "2.2.2",
   "cambios": [
     "",
-    "2.1.20",
+    "2.2.2",
     "",
     "• Corrigiendo detalles.",
-    "• Categoría de romance agregada.",
-    "• Gestión de cuenta (cambiar contraseña, nombre).",
     "",
     ""
   ],
