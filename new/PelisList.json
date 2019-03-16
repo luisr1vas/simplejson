@@ -586,13 +586,13 @@
     },
     {
       "ID_TMD": "1930",
-      "NAME_TMD": "The amazing Spider-Man 1 2012",
+      "NAME_TMD": "El Sorprendente Hombre Araña | The amazing Spider-Man 1 2012",
       "nombre_genero": "ciencia ficcion aventura accion",
       "URL_VIDEO": "https://www.rapidvideo.com/v/G0OLUAXNBR"
     },
 	{
       "ID_TMD": "102382",
-      "NAME_TMD": "The amazing Spider-Man 2 2012",
+      "NAME_TMD": "El Sorprendente Hombre Araña | The amazing Spider-Man 2 2012",
       "nombre_genero": "ciencia ficcion aventura accion",
       "URL_VIDEO": "https://www.rapidvideo.com/v/G0OM4XJ53O#"
     },
@@ -12749,56 +12749,6 @@
       "nombre_tvpeliculas": "Spider-Man: De regreso a casa 2017",
       "nombre_genero": "Ciencia Ficcion",
       "img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BODY2MTAzOTQ4M15BMl5BanBnXkFtZTgwNzg5MTE0MjI@._V1_SY1000_CR0,0,675,1000_AL_.jpg"
-    },
-    {
-      "0": "486",
-      "1": "The Amazing Spider-Man 2: El poder de Electro 2014",
-      "2": "Ciencia Ficcion",
-      "3": "https://m.media-amazon.com/images/M/MV5BMzMzOTc2Mzg2OV5BMl5BanBnXkFtZTgwOTc2MDk5MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
-      "id_tvpeliculas": "486",
-      "nombre_tvpeliculas": "The Amazing Spider-Man 2: El poder de Electro 2014",
-      "nombre_genero": "Ciencia Ficcion",
-      "img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMzMzOTc2Mzg2OV5BMl5BanBnXkFtZTgwOTc2MDk5MDE@._V1_SY1000_CR0,0,674,1000_AL_.jpg"
-    },
-    {
-      "0": "485",
-      "1": "El Sorprendente Hombre Araña 2012",
-      "2": "Ciencia Ficcion",
-      "3": "https://m.media-amazon.com/images/M/MV5BMTkwNjA4NzUwM15BMl5BanBnXkFtZTcwMzY1NDM5Nw@@._V1_SY1000_CR0,0,685,1000_AL_.jpg",
-      "id_tvpeliculas": "485",
-      "nombre_tvpeliculas": "El Sorprendente Hombre Araña 2012",
-      "nombre_genero": "Ciencia Ficcion",
-      "img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMTkwNjA4NzUwM15BMl5BanBnXkFtZTcwMzY1NDM5Nw@@._V1_SY1000_CR0,0,685,1000_AL_.jpg"
-    },
-    {
-      "0": "484",
-      "1": "El Hombre Araña 3 2007",
-      "2": "Ciencia Ficcion",
-      "3": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,672,1000_AL_.jpg",
-      "id_tvpeliculas": "484",
-      "nombre_tvpeliculas": "El Hombre Araña 3 2007",
-      "nombre_genero": "Ciencia Ficcion",
-      "img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY1000_CR0,0,672,1000_AL_.jpg"
-    },
-    {
-      "0": "483",
-      "1": "El hombre araña 2 2004",
-      "2": "Ciencia Ficcion",
-      "3": "https://m.media-amazon.com/images/M/MV5BMzkzNGNiNDYtNWE4ZC00YWNkLWFmNzItZmRiNTc5YjcyODhjXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SY1000_SX750_AL_.jpg",
-      "id_tvpeliculas": "483",
-      "nombre_tvpeliculas": "El hombre araña 2 2004",
-      "nombre_genero": "Ciencia Ficcion",
-      "img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BMzkzNGNiNDYtNWE4ZC00YWNkLWFmNzItZmRiNTc5YjcyODhjXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_SY1000_SX750_AL_.jpg"
-    },
-    {
-      "0": "482",
-      "1": "El hombre araña 2002",
-      "2": "Ciencia Ficcion",
-      "3": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
-      "id_tvpeliculas": "482",
-      "nombre_tvpeliculas": "El hombre araña 2002",
-      "nombre_genero": "Ciencia Ficcion",
-      "img_tvpeliculas": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg"
     },
     {
       "0": "481",
