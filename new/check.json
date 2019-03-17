@@ -1,7 +1,7 @@
 
 {
   "downloadapk": false,
-  "update": true,
+  "update": false,
   "promo": false,
   "mensV": false,
   "prioridad": true,
@@ -11,6 +11,7 @@
   "fisableA": false,
   "down": true,
   "p": "50,00$",
+  "id_store": "app.cinemovil.xploit",
   "pL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTJFQUYM6Q8LU",
   "data": "AQFsC5VbHCZ9BGBA8ObMrIYR6_3XXpnROJmkxqiNsbvedWp5WlYzUldhaW9xoHpjOKE2bNbnrcHavtV7",
   "publicacion": "https://www.facebook.com/app.cinemovil.xploit/posts/323308338521443",
