@@ -1,6 +1,6 @@
 {
   "downloadapk": false,
-  "update": true,
+  "update": false,
   "promo": false,
   "mensV": false,
   "onlyapk": false,
@@ -14,7 +14,7 @@
   "linea": "22/01/2019.",
   "mensF": "0",
   "mens": "¡Hola!",
-  "urlWeb": "http://appcinemovil.blogspot.com/2018/08/instalacion-manual.html",
+  "urlWeb": "https://developerxploitmovie.blogspot.com/2019/04/instalacion-manual.html",
   "linkup": "https://www.dropbox.com/s/lyxhsouybvggrqb/app-release.apk?dl=1",
   "nombre": "Movie.",
   "id_store": "com.developerxploit.movie",
