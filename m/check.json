@@ -1,6 +1,6 @@
 {
   "downloadapk": false,
-  "update": false,
+  "update": true,
   "promo": false,
   "mensV": false,
   "onlyapk": false,
@@ -19,8 +19,15 @@
   "nombre": "Movie.",
   "id_store": "com.developerxploit.movie",
   "data": "AQFsC5VbHCZ9BGBA8ObMrIYR6_3XXpnROJmkxqiNsbvedWp5WlYzUldhaW9xoHpjOKE2bNbnrcHavtV7",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "cambios": [
+    "",
+    "1.1.5",
+	"",
+	"• Corrección de notificación persistente.",
+	"• Corrección de lista de Favoritos.",
+	"• Corrección de Cargando....",
+	"• Corrección de Descargas.",
     "",
 	"1.1.4",
 	"• Soporte para Android TV.",
@@ -121,3 +128,8 @@
     ""
   ]
 }
+
+
+
+
+
