@@ -8,7 +8,7 @@
   "bNER": true,
   "aDFHF": true,
   "ads": 2,
-  "order": 6,
+  "order": 8,
   "p": "50$ USD",
   "pL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTJFQUYM6Q8LU",
   "publicacion": "https://www.facebook.com/app.cinemovil.xploit/posts/323308338521443",
@@ -47,7 +47,25 @@
     "CAM: Grabadas En Cine",
 	"UP: Actualizado",
     "",
-    "",
+    "11/05/2019",
+	"",
+	"P: Tiempo limite A contrarreloj (Out of Time) (2003)",
+	"P: Let Me In Dejame entrar (2010)",
+	"P: Peleando en familia (2019)",
+	"P: Braindead tu madre se ha comido a mi perro (1992)",
+	"P: Coco (2017)",
+	"P: Corazon de caballero (A Knight's Tale) (2001)",
+	"P: Arrastrado por el concreto (2019)",
+	"P: Lado Oscuro del Deseo Toc Toc Knock Knock (2015)",
+	"P: The Grudge El grito 1 (2004)",
+	"P: The Grudge El grito 2 (2006)",
+	"P: The Grudge El grito 3 (2009)",
+	"P: Last Breath (2019)",
+	"P: A la hora señalada (1995)",
+	"P: Ted 2 (2015)",
+	"P: The Predator (2018)",
+	"P: Pozos de ambición (There Will Be Blood) (2007)",
+	"",
     "09/05/2019",
 	"",
 	"P: Bohemian Rhapsody Dual Audio Lat-Eng.",
@@ -225,8 +243,3 @@
     ""
   ]
 }
-
-
-
-
-
