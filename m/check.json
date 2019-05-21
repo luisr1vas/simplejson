@@ -1,8 +1,6 @@
 {
   "downloadapk": false,
-  "update": true,
-  "promo": false,
-  "mensV": false,
+  "update": false,
   "onlyapk": false,
   "forzar": true,
   "bNER": true,
