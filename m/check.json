@@ -1,6 +1,6 @@
 {
   "downloadapk": false,
-  "update": true,
+  "update": false,
   "onlyapk": false,
   "forzar": true,
   "bNER": true,
