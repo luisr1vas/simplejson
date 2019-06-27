@@ -2,7 +2,7 @@
   "downloadapk": false,
   "promocode": false,
   "cleancode": false,
-  "errorcode": true,
+  "errorcode": false,
   "onlyapk": false,
   "update": true,
   "forzar": true,
