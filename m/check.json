@@ -3,6 +3,7 @@
   "promocode": false,
   "cleancode": true,
   "errorcode": false,
+  "cache": false,
   "onlyapk": false,
   "update": true,
   "forzar": true,
