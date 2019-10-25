@@ -12,6 +12,7 @@
   "ads": 2,
   "adsB": 6,
   "order": 6,
+  "adsI": 10,
   "p": "15$ USD",
   "pL": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTJFQUYM6Q8LU",
   "pL2": "https://go.hotmart.com/C14886813L",
@@ -25,6 +26,7 @@
   "dtS": "ASFy47jGIntGp_NwK0MruAU0MsaRdBDK-u6dc7jaJtRGc0xleWU0eHRCNmORYz_Yn9Ayye6UVrIXgqjt",
   "dtS2": "AVZ4ypftkR-hkT-gNkzWyqJoAdSoUMsRnek42vOF5NkPNHJ4dHdYXzZzZDR7qnZcJccL34iz_-l_poh3",
   "dtS3": "AYWPUyQODG9lcjDlWpv5lxcc2vwrqpaNTcSa93NMMqUISUFDSzkyWDQ3WWNgRyZm8AZmHmv4VMId3lNm",
+  "VersionCode": 9,
   "version": "1.1.8",
   "cambios": [
     "",
